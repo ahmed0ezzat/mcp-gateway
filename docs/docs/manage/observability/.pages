@@ -1,0 +1,3 @@
+nav:
+  - Overview: observability.md
+  - Phoenix Integration: phoenix.md
