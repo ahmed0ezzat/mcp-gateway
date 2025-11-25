@@ -1,0 +1,7 @@
+
+fastapi==0.115.0           # Web framework
+uvicorn[standard]==0.30.0  # ASGI server
+pydantic==2.8.0            # Data validation
+requests==2.32.3           # HTTP requests
+websockets==12.0           # WebSocket support
+python-dotenv==1.0.1       # Load environment variables
